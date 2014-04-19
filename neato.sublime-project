@@ -3,14 +3,6 @@
 	[
 		{
 			"follow_symlinks": true,
-			"path": "/Users/jabrena/Documents/DATA/2014/PROJECTS/DOOMOS/doomos-movile"
-		},
-		{
-			"follow_symlinks": true,
-			"path": "/Users/jabrena/Documents/DATA/2014/PROJECTS/pocs"
-		},
-		{
-			"follow_symlinks": true,
 			"path": "."
 		}
 	]
