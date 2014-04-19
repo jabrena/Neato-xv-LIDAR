@@ -1,0 +1,7 @@
+GIT Commands
+
+git config --global user.name "Juan Antonio Breña Moral"
+git config --global user.email bren@juanantonio.info
+git add --all . 
+git commit
+git push
